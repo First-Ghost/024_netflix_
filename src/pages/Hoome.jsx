@@ -1,6 +1,6 @@
 import { Main } from "../components/Main";
 
-export const Home = () => {
+export const Hoome = () => {
   return (
     <>
       <Main />
